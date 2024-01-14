@@ -1,0 +1,54 @@
+header {
+    margin-top: 30px;
+}
+
+.picture {
+    width: 100px;
+    height: 150px;
+    margin-left: auto;
+    border: 1px solid black;
+}
+
+section {
+    margin-bottom: 50px;
+}
+
+.picture {
+    border-radius: 40%;
+}
+
+.picture>p {
+    margin: 65px 0 0 30px;
+}
+
+.info {
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+main {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.personal>ul>li {
+    list-style: none;
+
+}
+
+.h {
+    display: inline-block;
+    background-color: gray;
+    border-bottom: 2px solid black;
+}
+
+footer {
+    text-align: center;
+    opacity: .9;
+}
+
+footer>p {
+    text-align: center;
+    opacity: .5;
+}
